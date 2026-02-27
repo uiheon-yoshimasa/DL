@@ -1,0 +1,5 @@
+✅ 新しく作るなら
+python3 -m venv .venv1
+✅ 有効化
+Mac / Linux:
+source .venv1/bin/activate
